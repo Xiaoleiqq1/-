@@ -1,0 +1,16 @@
+-a 1号线 -map subway.txt -o station.txt
+-a 2号线 -map subway.txt -o station.txt
+-a 3号线 -map subway.txt -o station.txt
+-a 9号线 -map subway.txt -o station.txt
+-a 5号线 -map subway.txt -o station.txt
+-a 6号线 -map subway.txt -o station.txt
+-b 洪湖里 复兴路 -map subway.txt -o routine.txt
+-b 刘园 复兴路 -map subway.txt -o routine.txt
+-b 曹庄 复兴路 -map subway.txt -o routine.txt
+-b 小淀 复兴路 -map subway.txt -o routine.txt
+-b 洪湖里 大毕庄 -map subway.txt -o routine.txt
+-b 月牙河 复兴路 -map subway.txt -o routine.txt
+-b 刘圆 月牙河 -map subway.txt -o routine.txt
+-b 天津站 洪湖里 -map subway.txt -o routine.txt
+-b 辽河北道 复兴路 -map subway.txt -o routine.txt
+-b 北宁公园 复兴路 -map subway.txt -o routine.txt
